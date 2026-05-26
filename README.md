@@ -1,42 +1,46 @@
-This project analyzes user engagement data to better understand customer behavior and identify patterns that impact retention and activity levels. The goal was to clean, analyze, and visualize engagement metrics to support data-driven decision making.
+# User Engagement Analysis
 
-Tools & Technologies
-Python
-Pandas
-SQL
-Excel
-Tableau / Matplotlib (if used)
-Jupyter Notebook
-Objectives
-Analyze user activity and engagement trends
-Identify high and low engagement periods
-Measure retention and activity patterns
-Visualize KPIs and engagement metrics
-Generate actionable insights from user behavior data
-Key Features
-Cleaned and transformed raw user data for analysis
-Performed exploratory data analysis (EDA)
-Analyzed engagement metrics and usage trends
-Created visualizations to highlight user behavior patterns
-Generated insights to support business recommendations
-Project Workflow
-Data Collection
-Data Cleaning & Transformation
-Exploratory Data Analysis
-Visualization & KPI Reporting
-Insights & Recommendations
-Results
+## Project Overview
+This project analyzes user engagement data to identify trends, measure activity levels, and generate actionable business insights.
 
-The analysis identified trends in user engagement and highlighted opportunities to improve customer retention and platform interaction. Visual dashboards and reports provided clear insights into user behavior and activity performance.
+## Business Problem
+Businesses need to understand customer engagement patterns to improve retention, increase activity, and optimize user experience.
 
-Skills Demonstrated
-Data Cleaning
-Data Analysis
-Data Visualization
-KPI Reporting
-SQL Querying
-Python Programming
-Business Insight Generation
-Author
+## Tools Used
+- SQL
+- Python
+- Pandas
+- Excel
+- Tableau
 
-Gabriel Medina
+## Data Cleaning
+- Removed duplicates
+- Standardized formatting
+- Handled missing values
+
+## Analysis Performed
+- User retention trends
+- Session activity analysis
+- Engagement KPIs
+- Feature usage analysis
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+## Key Insights
+- High engagement users showed stronger retention rates
+- User activity peaked during specific periods
+- Certain features had significantly higher interaction rates
+
+## Recommendations
+- Improve onboarding for low-engagement users
+- Focus development on high-performing features
+- Increase retention campaigns during low activity periods
+
+## Skills Demonstrated
+- Data Cleaning
+- SQL Querying
+- Data Visualization
+- KPI Reporting
+- Business Analysis
