@@ -1,4 +1,4 @@
-# User Engagement Analysis
+#E-Commerce-Interaction-Analysis
 
 ## Project Overview
 Analyzed user activity data to identify engagement trends and retention patterns.
