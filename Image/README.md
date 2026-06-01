@@ -9,10 +9,6 @@ Analyzed user activity data to identify engagement trends and retention patterns
 - Pandas
 - Tableau
 
-## Dashboard Preview
-
-![Dashboard](images/dashboard-overview.png)
-
 ## Key Insights
 - Users active 3+ times weekly had higher retention
 - Mobile users showed lower session duration
