@@ -53,7 +53,7 @@ An interactive Tableau dashboard was created to visualize customer engagement be
 
 ### Tableau Public Link
 
-https://public.tableau.com/views/E-CommerceInteractionAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link![Uploading dashboard-overview.png…]()
+https://public.tableau.com/views/E-CommerceInteractionAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link!
 
 
 
